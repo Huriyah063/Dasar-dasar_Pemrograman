@@ -1,0 +1,40 @@
+[
+    {
+        "nama": "Budi Santoso",
+        "umur": 25,
+        "kota": "Jakarta",
+        "profesi": "Dokter"
+    },
+    {
+        "nama": "Ani Wijaya",
+        "umur": 30,
+        "kota": "Bandung",
+        "profesi": "Dokter"
+    },
+    {
+        "nama": "Rudi Hartono",
+        "umur": 35,
+        "kota": "Surabaya",
+        "profesi": "Dokter"
+    },
+    {
+        "nama": "Siti Aminah",
+        "umur": 28,
+        "kota": "Yogyakarta",
+        "profesi": "Dokter"
+    },
+    {
+        "nama": "Ahmad Fauzi",
+        "umur": 40,
+        "kota": "Medan",
+        "profesi": "Dokter"
+    },
+    {
+        "nama": "kaff",
+        "umur": 78,
+        "kota": "jambi",
+        "profesi": "Dokter"
+    },{
+        
+    }
+]
